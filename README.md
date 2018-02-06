@@ -10,8 +10,10 @@ matched (row, select) // this is more internal - -will explain
 * speed the development process - do not reinvent the wheel
 * keep the bugs localized
 
-## Useage
+## Usage
 
 1. Copy ss_db.js file to your project (in GAS it will have to be ss_db.gs)
 2. Create a client function. You may use the demo_app_ss_db.js as a template
 3. Note examples included in ss_db that are commented out. These are helpful.
+4. Comments are useful to read
+
